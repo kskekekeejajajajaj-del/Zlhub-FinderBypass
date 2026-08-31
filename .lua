@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://gist.githubusercontent.com/script-luasab/4d87adfc75ffb15fcbc509c18e3720f3/raw/ZLHUB.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kskekekeejajajajaj-del/Zlhub-FinderBypass/main/.lua"))()
 end)
 
 task.spawn(function()
